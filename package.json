@@ -1,0 +1,27 @@
+{
+  "name": "target4bots",
+  "version": "1.0.0",
+  "description": "https://chat.whatsapp.com/GfyssvAq8fAJc8IkP6ShZH",
+  "main": "index.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EduardoHillebrand/Target4Bots.git"
+  },
+  "author": "Eduardo Hillebrand",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/EduardoHillebrand/Target4Bots/issues"
+  },
+  "homepage": "https://github.com/EduardoHillebrand/Target4Bots#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "dotenv": "^6.2.0",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "http": "0.0.0",
+    "socket.io": "^2.2.0"
+  }
+}
